@@ -1,2 +1,3 @@
 # web-programming-labs
-Place for Web Programming Assignments
+
+Place for Web Programming Assignments/Lab Exercises.
